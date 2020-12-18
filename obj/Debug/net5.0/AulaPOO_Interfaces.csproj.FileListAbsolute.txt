@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\bin\Debug\net5.0\AulaPOO_Interfaces.exe
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\bin\Debug\net5.0\AulaPOO_Interfaces.deps.json
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\bin\Debug\net5.0\AulaPOO_Interfaces.runtimeconfig.json
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\bin\Debug\net5.0\AulaPOO_Interfaces.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\bin\Debug\net5.0\AulaPOO_Interfaces.dll
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\bin\Debug\net5.0\ref\AulaPOO_Interfaces.dll
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\bin\Debug\net5.0\AulaPOO_Interfaces.pdb
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.dll
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\ref\AulaPOO_Interfaces.dll
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.pdb
+C:\Users\dev\Desktop\POO_Interfaces\AulaPOO_Interfaces\obj\Debug\net5.0\AulaPOO_Interfaces.genruntimeconfig.cache
